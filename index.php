@@ -5,12 +5,12 @@
 
     <p>Enter the amount of crpyto</p>
 
-    <form>
+    <form action="convert.php" method="post">
 <label for="amount">Amount</label>
-<input id="amount">
+<input id="amount" name="amount">
 <label for="crypto">Crypto</label>
 <input>
-<select id="crypto">
+<select id="crypto" name="crypto">
     <option>BTC</option>
     <option>ETH</option>
 </select>
