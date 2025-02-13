@@ -9,7 +9,6 @@
 <label for="amount">Amount</label>
 <input id="amount" name="amount">
 <label for="crypto">Crypto</label>
-<input>
 <select id="crypto" name="crypto">
     <option>BTC</option>
     <option>ETH</option>

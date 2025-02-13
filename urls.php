@@ -1,3 +1,3 @@
 <?php
 $crypto = "BTC";
-$api = "https://cex.io/api/ticker/$crypto/USD";
+$api = "https://cex.io/api/ticker/BTC/USD";
